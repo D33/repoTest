@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"Dieges gay"<<endl;
+    cout<<"Dieges is not gay. But Raphapr..."<<endl;
 }
